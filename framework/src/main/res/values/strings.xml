@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Framework</string>
+
+    <string name="close">Cerrar</string>
+    <string name="loading">"Cargando..."</string>
+    <string name="new_picture">Nueva imagen</string>
+    <string name="options">Opciones</string>
+
+    <string name="warning_internet_error">¡Oops parece que no estamos recibiendo datos de internet!\nRevisa tu conexión 3G o WIFI e intenta de nuevo.</string>
+    <string name="enable_mobile_data">Habilitar datos móviles</string>
+    <string name="warning_internet">Revise su conexión a internet</string>
+    <string name="enable_wifi">Habilitar Wi-Fi</string>
+    <string name="open_permissions">Abrir permisos</string>
+
+    <string name="network_not_avalilable">No hay conexion a internet</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="option_message_background_color">#3F51B5</color>
+    <color name="option_message_text_color">#f5f5f5</color>
+    <color name="option_background_color">#6b79c9</color>
+    <color name="option_text_color">#f5f5f5</color>
+</resources>
